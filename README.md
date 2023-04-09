@@ -1,2 +1,2 @@
 # SampleProjects
-Collection of simple short projects implemented in various languages and such.
+Collection of simple short projects implemented in various languages and such. More info TBA.
